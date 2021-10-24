@@ -7,7 +7,12 @@
           "name": "github",
           "url": "https://github.com/atommielcarek",
           "class": "fab fa-github"
-        }
+        },
+          {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/adam-mielcarek-424218215/",
+            "class": "fab fa-linkedin"
+          }
       ],
       "image": "myProfile.jpg"
     },

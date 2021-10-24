@@ -25,6 +25,9 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
+                  <a href="https://www.linkedin.com/in/adam-mielcarek-424218215/">LinkedIn</a> 
+                  <p></p>
+                  <a href="https://github.com/atommielcarek">GitHub</a>
                 </span>
               </div>
             </div>
