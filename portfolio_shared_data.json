@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Adam Mielcarek",
+      "titles": [ "Front-end Developer", "Junior Software Engineer", "Scrum Master", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/atommielcarek",
+          "class": "fab fa-github"
+        },
+          {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/adam-mielcarek-424218215/",
+            "class": "fab fa-linkedin"
+          }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-original",
+          "level": "80"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySQL",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }

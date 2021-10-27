@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "My name is Adam Mielcarek. I'm working with the newest frameworks like React, Node, and Sass. I am also in the process of learning Firebase and Python. I've recently completed a bootcamp program through University of Denver and acquired my certification in Full-Stack Development and Software Engineering. I am currently developing and working through concepts of new applications to bring people joy and fill their lives with light. ",
+      "section_name": {
+        "about": "About Me",
+        "projects": "Works",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "README.md Generator",
+        "startDate": "2021",
+        "description": "I created this application for developers to intuitively generate a stylized, professional looking README depending on their answers to a series of questions in their command line using Node.js",
+        "images": [
+          "images/portfolio/reading-rainbow/p1.png",
+          "images/portfolio/reading-rainbow/p2.png"
+        ],
+        "url": "https://github.com/atommielcarek/reading-rainbow",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Sunshine on My Mind",
+        "startDate": "2021",
+        "description": "User may input any accpeted City, and State in the search area and then receive current weather readings as well as a 5 day forecast. User may also revisit past searches saved in the console log, displayed in the UI with interactive links.",
+        "images": [
+          "images/portfolio/sunshine-on-my-mind/p1.png"
+        ],
+        "url": "https://github.com/atommielcarek/sunshine-on-my-mind",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Cheat-Sheet",
+        "startDate": "2021",
+        "description": "As a small business owner I want to be able to write and save notes so that I can organize my thoughts and keep track of tasks I need to complete.",
+        "images": [
+          "images/portfolio/cheat-sheet/p1.png",
+          "images/portfolio/cheat-sheet/p2.png",
+          "images/portfolio/cheat-sheet/p3.png"
+        ],
+        "url": "https://github.com/atommielcarek/cheat-sheet",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-heroku-original",
+            "name": "Heroku"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Denver Coding Bootcamp",
+        "title": "Full-Stack Developer",
+        "years": "04.2021 - 10.2021",
+        "mainTech": [
+          "Javascript 10/11/21"
+        ],
+        "technologies": [
+          "REST API",
+          "ReactJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "MySQL",
+          "NodeJS",
+          "HTML",
+          "CSS"
+        ]
+      }
+     ]
+    }
