@@ -28,6 +28,8 @@ class About extends Component {
                   <a href="https://www.linkedin.com/in/adam-mielcarek-424218215/">LinkedIn</a> 
                   <p></p>
                   <a href="https://github.com/atommielcarek">GitHub</a>
+                  <p></p>
+                  <a href="./Adam-Mielcarek.pdf" download>Resume</a>
                 </span>
               </div>
             </div>
